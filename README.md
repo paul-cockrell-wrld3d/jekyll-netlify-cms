@@ -1,6 +1,6 @@
-# Jekyll + Netlify CMS
+# WRLD3D static site (example)
 
-This is the basic Jekyll starter site, with Netlify CMS integrated.
+This is an example WRLD3D site built on Jekyll with Netlify CMS integrated
 
 ## Getting Started
 
@@ -38,13 +38,3 @@ the **Enable GitHub** box.
 
 Now anybody with write access to your GitHub repository can log in at yoursite.netlify.com/admin
 and use the CMS.
-
-**Enjoy!**
-
-## Bug reports, feature requests, etc
-
-We love feedback, contributions, better documentation, tutorials, general comments,
-random hatemail, rants, love, crazy ideas, etc, etc!
-
-Contact us at [any of netlify's normal channels](https://www.netlify.com/contact) and
-open issues or pull requests at [the netlify-cms GitHub repo](https://github.com/netlify/netlify-cms)
